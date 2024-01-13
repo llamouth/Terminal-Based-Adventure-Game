@@ -8,7 +8,7 @@ Welcome to a simple terminal-based adventure game! This game allows you to make 
 1. Run the game by executing the script in your terminal.
 
    ```bash
-   node adventure-game.js
+   node index.js
 
 2. You will be prompted to start the game by entering 'y' (yes) or 'n' (no).
 
